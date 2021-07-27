@@ -1,5 +1,5 @@
 # CvT-convolutional-transformer-pytorch
-CvT convolutional transformer pytorch starter
+CvT convolutional transformer pytorch starter https://colab.research.google.com/drive/1bZNC1rK_I4ANiS-ilEEbrPgR8E8Av_RG
 
 # Observations
 Much slower on training with less parameters size.
